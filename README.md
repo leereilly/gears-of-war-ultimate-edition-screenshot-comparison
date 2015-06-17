@@ -1,6 +1,6 @@
 ### Gears of War: Ultimate Edition Screenshot Comparison
 
-**Gears of War: Ultimate Edition** was announced today at E3 and the website went live with a ton of great content. The [before/after screenshot comparison demonstrating the improved graphics](https://gearsofwar.com/en-us/ultimate-edition/before-and-after) plus promises 1080p/60fps is enough to make anyone drool.
+**Gears of War: Ultimate Edition** was announced today at E3 and the website went live with a ton of great content. The [before/after screenshot comparison demonstrating the improved graphics](https://gearsofwar.com/en-us/ultimate-edition/before-and-after) plus promises of 1080p/60fps is enough to make anyone drool.
 
 **Did you know:** You can recreate the image diff/swipe functionality to compare images by using Git and taking advantage of GitHub's lesser-known [image diff viewing functionality](https://help.github.com/articles/rendering-and-diffing-images/#viewing-differences)? Try it for yourself by checking out [the first pull request in this repository](https://github.com/leereilly/gears-of-war-ultimate-edition-screenshot-comparison/pull/1).
 
